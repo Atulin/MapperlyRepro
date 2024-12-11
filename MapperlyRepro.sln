@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapperlyRepro", "MapperlyRepro\MapperlyRepro.csproj", "{F50B7E26-70D7-40D4-8AC8-10557231271A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F50B7E26-70D7-40D4-8AC8-10557231271A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50B7E26-70D7-40D4-8AC8-10557231271A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50B7E26-70D7-40D4-8AC8-10557231271A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50B7E26-70D7-40D4-8AC8-10557231271A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
